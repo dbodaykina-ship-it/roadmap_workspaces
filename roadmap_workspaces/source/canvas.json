@@ -1,0 +1,84 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Direct.dc.html": {
+      "h": 848,
+      "is_interactive": true,
+      "title": "Прототип · без сводной обработки — 3 колонки",
+      "w": 1440,
+      "x": 1520,
+      "y": 0
+    },
+    "Main.dc.html": {
+      "h": 848,
+      "is_interactive": true,
+      "title": "Прототип · с каскадом — 4 колонки",
+      "w": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "Model.dc.html": {
+      "h": 2928,
+      "title": "Модель и действия",
+      "w": 1440,
+      "x": 4560,
+      "y": 0
+    },
+    "Sidebar.dc.html": {
+      "h": 1080,
+      "is_interactive": true,
+      "title": "Карточка сущности · floating, как Identity",
+      "w": 1696,
+      "x": 0,
+      "y": 928
+    },
+    "Spec.dc.html": {
+      "h": 3320,
+      "title": "Находки, критерии, вопросы",
+      "w": 1440,
+      "x": 6080,
+      "y": 0
+    },
+    "States.dc.html": {
+      "h": 2448,
+      "title": "Состояния карточек",
+      "w": 1440,
+      "x": 3040,
+      "y": 0
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-09-30T08:00:02Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "notes": {
+    "t1": {
+      "kind": "title1",
+      "maxW": 7520,
+      "text": "Вотчлист «Начни утро с обзора рынка» · roadmap каскада по доске 8968",
+      "w": 240,
+      "x": 0,
+      "y": -300
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "Direct.dc.html",
+    "Sidebar.dc.html",
+    "States.dc.html",
+    "Model.dc.html",
+    "Spec.dc.html"
+  ],
+  "pages": [
+    {
+      "id": "page-1",
+      "name": "1- iteraction"
+    }
+  ],
+  "title": "Вотчлист · roadmap каскада"
+}
